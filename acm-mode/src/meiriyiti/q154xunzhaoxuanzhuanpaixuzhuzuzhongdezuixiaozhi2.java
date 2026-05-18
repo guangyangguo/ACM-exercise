@@ -1,6 +1,6 @@
 package meiriyiti;
 
-public class q154 {
+public class q154xunzhaoxuanzhuanpaixuzhuzuzhongdezuixiaozhi2 {
 
     public static void main(String[] args) {
         int[] nums = {1,3,5};

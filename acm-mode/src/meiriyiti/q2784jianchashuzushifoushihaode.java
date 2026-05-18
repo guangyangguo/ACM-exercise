@@ -2,7 +2,7 @@ package meiriyiti;
 
 import java.util.Arrays;
 
-public class q2784 {
+public class q2784jianchashuzushifoushihaode {
 
     public static void main(String[] args) {
         int[] nums = {2,1,3};

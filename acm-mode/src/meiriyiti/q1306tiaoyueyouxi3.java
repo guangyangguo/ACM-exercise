@@ -3,7 +3,7 @@ package meiriyiti;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class q1306 {
+public class q1306tiaoyueyouxi3 {
 
     public static void main(String[] args) {
         //true
