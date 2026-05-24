@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 
-public class qzhaodaolianggeshuzudeqianzhuigonggongshuzu {
+public class q2657zhaodaolianggeshuzudeqianzhuigonggongshuzu {
 
     public static void main(String[] args) {
         int[] A = {1,3,2,4};
