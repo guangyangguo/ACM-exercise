@@ -1,6 +1,4 @@
-package meiriyiti;
-
-import java.util.Arrays;
+package meiriyiti._26year05month;
 
 public class q3300tihuanweishuweiheyihoudezuixiaoyuansu {
 

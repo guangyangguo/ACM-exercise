@@ -1,8 +1,6 @@
-package meiriyiti;
+package meiriyiti._26year06month;
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
 public class q3753fanweineizongbodongzhi2 {
 
